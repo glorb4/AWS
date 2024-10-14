@@ -1,2 +1,0 @@
-# AWS
-Amazon AWS Projects
